@@ -14,7 +14,7 @@ This web log analyzer carries out detection of 4 different types of attacks:
   4) Denial of Service(DoS) attempts/attacks 
 
 
-Final product of the analyzer would be 4 different files (xssDetections.txt, fileInclusionDetections.txt, webshellDetections.txt, dosDetections.txt) containing web log records from the tested apache web log that have been identified as potential attacks.
+Final product of the analyzer would be 4 different files (xssDetections.txt, fileInclDetections.txt, webshellDetections.txt, dosDetections.txt) containing web log records from the tested apache web log that have been identified as potential attacks.
 
 
 
