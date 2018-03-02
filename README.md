@@ -1,19 +1,23 @@
 # weblog-analyzer (User Guide)
 
-</n>
+
 This repository contains code implementing a Apache web log analyzer.
-</n>
+
+
 It is done as part of a recruitment assessment for Horangi Cybersecurity.
-</n>
+
+
 This web log analyzer carries out detection of 4 different types of attacks:
   1) Cross Site Scripting (XSS) attacks
   2) File Inclusion attacks
   3) Web shells
   4) Denial of Service(DoS) attempts/attacks 
-</n>
+
+
 Final product of the analyzer would be 4 different files (xssDetections.txt, fileInclusionDetections.txt, webshellDetections.txt, dosDetections.txt) containing web log records from the tested apache web log that have been identified as potential attacks.
 
-</n>
+
+
 <u><b>Installation guide</u></b>
 
 <i>Requirements: </i>
@@ -26,7 +30,7 @@ Final product of the analyzer would be 4 different files (xssDetections.txt, fil
   4) Run webloganalyzer.py on command line/command prompt. Specify the web log file to be analyzed by adding it as a command  line argument.
   
 
-</n>
+
 <u><b>Credits/Resource List</u></b>
   1) https://www.symantec.com/connect/articles/detection-sql-injection-and-cross-site-scripting-attacks
   2) http://resources.infosecinstitute.com/file-inclusion-attacks/
