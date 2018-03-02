@@ -25,7 +25,7 @@ Final product of the analyzer would be 4 different files (xssDetections.txt, fil
   
 <i>Using the analyzer:</i>
   1) The weblog analyzer is implemented within a single python script. (webloganalyzer.py)
-  2) Download webloganalyzer.py.
+  2) Download or clone this repository.
   3) Place the web log file to be scanned and webloganalyzer.py into the same directory.
   4) Run webloganalyzer.py on command line/command prompt. Specify the web log file to be analyzed by adding it as a command  line argument.
   
