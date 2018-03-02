@@ -4,7 +4,7 @@
 This repository contains code implementing a Apache web log analyzer.
 
 
-It is done as part of a recruitment assessment for Horangi Cybersecurity.
+It was done as part of a recruitment assessment for Horangi Cybersecurity.
 
 
 This web log analyzer carries out detection of 4 different types of attacks:
