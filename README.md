@@ -18,7 +18,7 @@ Final product of the analyzer would be 4 different files (xssDetections.txt, fil
 
 
 
-<u><b>Installation guide</u></b>
+## Installation guide
 
 <i>Requirements: </i>
   1) Python v3.6
@@ -31,7 +31,7 @@ Final product of the analyzer would be 4 different files (xssDetections.txt, fil
   
 
 
-<u><b>Credits/Resource List</u></b>
+## Credits/Resource List
   1) https://www.symantec.com/connect/articles/detection-sql-injection-and-cross-site-scripting-attacks
   2) http://resources.infosecinstitute.com/file-inclusion-attacks/
   3) https://www.owasp.org/index.php/Testing_Directory_traversal/file_include_(OTG-AUTHZ-001)#Testing_Techniques
